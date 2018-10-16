@@ -47,6 +47,8 @@ App will display 20 photos for "rock concert" tag as a default state. You can us
 - update header with react-helmet (Meta Tag Management)
 - add real name from Flickr
 
+![picture](http://sellit.ie/flickrapp.png)
+
 ## License
 
 MIT
