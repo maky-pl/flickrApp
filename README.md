@@ -42,10 +42,12 @@ App will display 20 photos for "rock concert" tag as a default state. You can us
 
 ### Todos
 
-- Move search box to new component
-- Fix validation for search box after editing tags
+- move search box to new component
+- fix validation for search box after editing tags
 - update header with react-helmet (Meta Tag Management)
 - add real name from Flickr
+- rwd updates
+
 
 ![picture](http://sellit.ie/flickrapp.png)
 
