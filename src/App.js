@@ -6,7 +6,7 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      apiKey: "6f635fc1faad83feb9c2eb0489c20695",
+      apiKey: "update with your API key",
       pictures: [],
       textInput: "rock concert",
       itemsPerPage: 20
