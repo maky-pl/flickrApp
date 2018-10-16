@@ -21,7 +21,7 @@ my-app/
     logo.svg
 ```
 
-Go to: [https://www.flickr.com/services/api/](https://www.flickr.com/services/api/) to register your API key. Update App.js - line 8 with your API key.
+Go to: [https://www.flickr.com/services/api/](https://www.flickr.com/services/api/) to register your API key. Update App.js - line 9 with your API key.
 
 ```sh
 apiKey: "c2ec20695", // update with your API key
